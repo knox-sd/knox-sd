@@ -11,4 +11,6 @@ With 4 years of studies and experience in Computer Application. I've had the pri
 - 📫 How to reach me: https://www.linkedin.com/in/sujan-adhikari-771987268/
 - ⚡ Fun fact: Love to learning code.
 
-  #OpenToWork: Collabrate on Web Development and learning new tech things.
+Willing to learn new software Development programs and Always ready for new challenge🎯.
+
+#OpenToWork: Collabrate on Web Development and learning new tech things.
