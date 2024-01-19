@@ -1,6 +1,6 @@
 Hi there, I'm Sujan Adhikari 👋
 
-Passionate developer driven to create innovative solution - a knowledge seeker.
+Passionate Software Developer driven to create innovative solution - a knowledge seeker.
 With 4 years of studies and experience in Computer Application. I've had the privilege of contributing to some remarkable projects. Working on various projects solidified my understanding of best practices, propelling my problem-solving skills and ability to write maintainable code.
 
 - 🔭 I'm currently working on Electronics Retail and Distribution Company.
