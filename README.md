@@ -9,7 +9,7 @@ With 4 years of studies and experience in Computer Application. I've had the pri
 - 🤔 I'm looking for help with Web development to get a job in software development field.
 - 💬 Ask me about software development and improve my programming skills.
 - 📫 How to reach me: https://www.linkedin.com/in/sujan-adhikari-771987268/
-- ⚡ Fun fact: Love to code.
+- ⚡ Fun fact: coding is my passion.
 
 🚀Commitment to continuous improvement and continuous Learning in software development 🧑‍💻 Always ready for new challenge🎯.
 
