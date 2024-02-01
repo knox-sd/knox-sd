@@ -1,16 +1,24 @@
-Hi there, I'm Sujan Adhikari 👋
+<h1 align="center">Hi 👋, I'm Sujan Adhikari</h1>
+<h3 align="center">A Passionate Software Developer driven to create innovative solution - a knowledge seeker. With 4 years of studies and experience in Computer Application. I've had the privilege of contributing to some remarkable projects. Working on various projects solidified my understanding of best practices, propelling my problem-solving skills and ability to write maintainable code.</h3>
 
-Passionate Software Developer driven to create innovative solution - a knowledge seeker.
-With 4 years of studies and experience in Computer Application. I've had the privilege of contributing to some remarkable projects. Working on various projects solidified my understanding of best practices, propelling my problem-solving skills and ability to write maintainable code.
+- 🔭 I’m currently working on [KNOX Inventory Management System](https://github.com/knox-sd/KNOX-Inventory-Management-System)
 
-- 🔭 I'm currently working as a Senior Coordinator and System Operator.
-- 🌱 I'm currently learning Python, Django, SQL and tech things.
-- 👯 I'm looking to collaborate on Web development/ Apps Development.
-- 🤔 I'm looking for help with Web development to get a job in software development field.
-- 💬 Ask me about software development and improve my programming skills.
-- 📫 How to reach me: https://www.linkedin.com/in/sujan-adhikari-771987268/
-- ⚡ Fun fact: coding is my passion.
+- 🌱 I’m currently learning **Python, Django, SQL and Tech things.**
 
-🚀Commitment to continuous improvement and continuous Learning in software development 🧑‍💻 Always ready for new challenge🎯.
+- 👯 I’m looking to collaborate on **Web development Project**
 
-#OpenToWork: Collabrate on Web Development and learning new tech things.
+- 🤝 I’m looking for help with **Web development Project**
+
+- 💬 Ask me about **Python, tkinter, Django and Programming.**
+
+- 📫 How to reach me **sujan.ad6473@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sujan-adhikari1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujan-adhikari1/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knox-sd&show_icons=true&locale=en&layout=compact" alt="knox-sd" /></p>
