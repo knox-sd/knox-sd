@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Web development Project**
 
-- 💬 Ask me about ** Software development, Programming Languages, Python.**
+- 💬 Ask me about **Software development, Programming,Python.**
 
 - 📫 How to reach me **sujan.ad6473@gmail.com**
 
