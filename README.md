@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KNOX Inventory Management System](https://github.com/knox-sd/KNOX-Inventory-Management-System)
 
-- 🌱 I’m currently learning **Web Development and Tech things.**
+- 🌱 I’m currently learning **Web Application Development and Tech things.**
 
 - 👯 I’m looking to collaborate on **Web development Project**
 
