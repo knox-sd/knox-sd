@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **sujan.ad6473@gmail.com**
 
+<h3 align="left">🚀Commitment to continuous improvement and continuous Learning in software development. Always ready for new challenge🎯.</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sujan-adhikari1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujan-adhikari1/" height="30" width="40" /></a>
