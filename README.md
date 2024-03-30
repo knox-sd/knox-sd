@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Web Application Development and New Technical Skills.**
 
-- 👯 I’m looking to collaborate on **Web development Project**
+- 👯 I’m looking to collaborate or opportunity on **Software Development, Web development Projects**
 
-- 💬 Ask me about **Software development, Programming, Python, and Technology. **
+- 💬 Ask me about **Software development, Programming, Python, and Technology.**
 
 - 📫 How to reach me **sujan.ad6473@gmail.com**
 
