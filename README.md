@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Web development Project**
 
-- 🤝 I’m looking for help with **Web development Project**
-
 - 💬 Ask me about **Software development, Programming,Python.**
 
 - 📫 How to reach me **sujan.ad6473@gmail.com**
