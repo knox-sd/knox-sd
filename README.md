@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [CodeWhisperX : Notes](https://github.com/knox-sd/CodeWhisperX_Smartnotes)
 
-- 🌱 I’m currently learning **Web Application Development and Tech things.**
+- 🌱 I’m currently learning **Web Application Development and New Technical Skills.**
 
 - 👯 I’m looking to collaborate on **Web development Project**
 
-- 💬 Ask me about **Software development, Programming,Python.**
+- 💬 Ask me about **Software development, Programming, Python, and Technology. **
 
 - 📫 How to reach me **sujan.ad6473@gmail.com**
 
