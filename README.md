@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sujan Adhikari</h1>
-<h3 align="left">A Passionate Software Developer driven to create innovative solution - a knowledge seeker. With 4+ years of studies and experience in Computer Application. I've had the privilege of contributing to some remarkable projects. Working on various projects solidified my understanding of best practices, propelling my problem-solving skills and ability to write maintainable code.</h3>
+<h3 align="left">A Passionate Software Developer driven to create innovative solution - a knowledge seeker, with 4+ years of experience in Software Development and IT. I've had the privilege of contributing to some remarkable projects. Working on various projects solidified my understanding of best practices, propelling my problem-solving skills and ability to write maintainable code.</h3>
 
 - 🔭 I’m currently working on [Pizza Hub](https://github.com/knox-sd/Pizza-Hub)
 
